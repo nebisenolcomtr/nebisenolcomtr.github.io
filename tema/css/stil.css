@@ -1,0 +1,86 @@
+/*
+	~> Nebi Şenol
+	~> 17.10.2021
+	~> info@nebisenol.com.tr
+	~> nebisenol.com.tr
+*/
+html, body { 
+width: 100%;
+height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: bold;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+.sayfa {
+	width: 100%;
+	height: 100%;
+	color: #ffffff;
+	display: table;
+	margin-top: 0px;
+	background: #159957;
+	background: linear-gradient(120deg, #155799, #159957);
+
+}
+
+.ortala {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.profil {
+	border-radius: 50% !important;
+	border: .5rem solid rgba(255,255,255,.2);
+}
+
+.sosyal {
+	margin-top: 10px;
+	border-radius: 13px;
+	font-size: 20px;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.sosyal:hover {
+	background-color: #444444;
+	color: #ffffff;
+}
+
+.menu {
+	margin-top: 10px;
+	border-radius: 13px;
+	background-color: #000000;
+	color: #ffffff;
+	width: 100px;
+}
+
+.menu:hover {
+	background-color: #444444;
+	color: #ffffff;
+}
+
+.kart {
+	border-radius: 13px;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.bosluk {
+	margin-top: 10px;
+}
+
+.sayfaustbosluk {
+	margin-top: 10px;
+}
+
+.sayfaaltbosluk {
+	margin-bottom: 10px;
+}
