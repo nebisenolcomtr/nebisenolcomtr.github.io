@@ -1,1 +1,0 @@
-nebisenol.com.tr
