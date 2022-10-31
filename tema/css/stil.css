@@ -38,6 +38,7 @@ h3 {
 	75%{background:#232B3F;}
 	100%{background:#5E4E2F;}
 }
+
 @-moz-keyframes ArkaPlanAnimasyonu {
 	0% {background:#5E4E2F;}
 	25%{background:#254A27;}
@@ -45,6 +46,7 @@ h3 {
 	75%{background:#232B3F;}
 	100%{background:#5E4E2F;}
 }
+
 @-o-keyframes ArkaPlanAnimasyonu {
 	0% {background:#5E4E2F;}
 	25%{background:#254A27;}
@@ -52,6 +54,7 @@ h3 {
 	75%{background:#232B3F;}
 	100%{background:#5E4E2F;}
 }
+
 @keyframes ArkaPlanAnimasyonu {
 	0% {background:#5E4E2F;}
 	25%{background:#254A27;}
