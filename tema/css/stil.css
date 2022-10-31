@@ -25,29 +25,39 @@ h3 {
 	color: #ffffff;
 	display: table;
 	margin-top: 0px;
-	background-image: linear-gradient(90deg,#801515,#802b15,#803a15,#804515,#804e15,#805615,#805c15,#806215,#806815,#806d15,#807315,#807915,#808015,#707d15,#637a15,#567714,#477413,#336f13,#116611,#0f5b30,#0e543f,#0d4d4d,#113c51,#133253,#162955,#181f58,#1f1959,#261758,#2d1557,#351456,#3d1255,#4a1054,#5b0f4d,#661141,#6e1236,#761429,#801515,#802b15);
-	background-size: 3700% 100%;
-	-webkit-animation: ArkaPlanAnimasyonu 12s linear infinite;
-	-moz-animation: ArkaPlanAnimasyonu 12s linear infinite;
-	-o-animation: ArkaPlanAnimasyonu 12s linear infinite;
-	animation: ArkaPlanAnimasyonu 12s linear infinite;
+	-webkit-animation: ArkaPlanAnimasyonu 10s infinite;
+	-moz-animation: ArkaPlanAnimasyonu 10s infinite;
+	-o-animation: ArkaPlanAnimasyonu 10s infinite;
+	animation: ArkaPlanAnimasyonu 10s infinite;
 }
 
 @-webkit-keyframes ArkaPlanAnimasyonu {
-  0% { background-position: 0% 0%; }
-  100% { background-position: 100% 0%; }
+	0% {background:#5E4E2F;}
+	25%{background:#254A27;}
+	50%{background:#5E302F;}
+	75%{background:#232B3F;}
+	100%{background:#5E4E2F;}
 }
 @-moz-keyframes ArkaPlanAnimasyonu {
-  0% { background-position: 0% 0%; }
-  100% { background-position: 100% 0%; }
+	0% {background:#5E4E2F;}
+	25%{background:#254A27;}
+	50%{background:#5E302F;}
+	75%{background:#232B3F;}
+	100%{background:#5E4E2F;}
 }
 @-o-keyframes ArkaPlanAnimasyonu {
-  0% { background-position: 0% 0%; }
-  100% { background-position: 100% 0%; }
+	0% {background:#5E4E2F;}
+	25%{background:#254A27;}
+	50%{background:#5E302F;}
+	75%{background:#232B3F;}
+	100%{background:#5E4E2F;}
 }
 @keyframes ArkaPlanAnimasyonu {
-  0% { background-position: 0% 0%; }
-  100% { background-position: 100% 0%; }
+	0% {background:#5E4E2F;}
+	25%{background:#254A27;}
+	50%{background:#5E302F;}
+	75%{background:#232B3F;}
+	100%{background:#5E4E2F;}
 }
 
 .ortala {
